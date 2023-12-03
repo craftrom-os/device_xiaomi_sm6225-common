@@ -18,10 +18,10 @@
        "branch"      : "thrall"
    },
    {
-       "remote"      : "pixel-devices-blobs",
+       "remote"      : "craftrom",
        "repository"  : "vendor_xiaomi_sm6225-common",
        "target_path" : "vendor/xiaomi/sm6225-common",
-       "branch"      : "thirteen"
+       "branch"      : "thrall"
    },
    {
        "remote"      : "pixel-devices-blobs",
