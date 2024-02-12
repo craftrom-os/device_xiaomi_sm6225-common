@@ -572,13 +572,4 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <instance>MwqemAdapter</instance>
         </interface>
     </hal>
-    <hal format="hidl">
-        <name>vendor.qti.hardware.tui_comm</name>
-        <transport>hwbinder</transport>
-        <version>1.0</version>
-        <interface>
-            <name>ITuiComm</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
 </manifest>
